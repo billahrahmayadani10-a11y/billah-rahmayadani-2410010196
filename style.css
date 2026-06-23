@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #e3f2fd;
+  background-color: #922973;
   color: #0d1b2a;
 }
 
@@ -19,7 +19,7 @@ a {
 }
 
 .header {
-  background-color: #bbdefb; 
+  background-color: #ffafff; 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 1rem 1.5rem;
   display: flex;
@@ -31,7 +31,7 @@ a {
 .header-title {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #0d47a1; 
+  color: #ca779b; 
 }
 
 .header .user-info {
@@ -44,7 +44,7 @@ a {
 }
 
 .logout-btn {
-  background-color: #90caf9;
+  background-color: #e6acf0;
   color: #ffffff;
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
@@ -53,7 +53,7 @@ a {
 }
 
 .logout-btn:hover {
-  background-color: #64b5f6; 
+  background-color: #de64f6; 
 }
 
 .container {
